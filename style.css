@@ -19,8 +19,26 @@ header{
 
 }
 
+.headerimage{
+    width: 633px;
+    height: 799px;
+    flex-shrink: 0;
+}
 
+.ourfeaturedflowers{
+    width: 1918px;
+    height: 4865px;
+}
 
+.ourflowers{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
 .lets-make-beautiful{
     width: 705px;
     color: #272727;
@@ -56,28 +74,6 @@ header{
     font-weight: 700;
     line-height: normal;
     border-style: none;
-
-}
-
-.headerimage{
-    width: 633px;
-    height: 799px;
-    flex-shrink: 0;
-}
-
-.ourfeaturedflowers{
-    width: 1918px;
-    height: 4865px;
-}
-
-.ourflowers{
-    color: #272727;
-    text-align: center;
-    font-family: Lato;
-    font-size: 41px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: normal;
 }
 
 .ourflowerdescription{
@@ -272,7 +268,7 @@ header{
 }
 
 footer{
-   /* position: fixed; */
+   
 
    align-items: center;
   
@@ -292,7 +288,7 @@ footer{
     position: absolute;
 
     margin-top: 200px;
-    /* margin-left: 800px; */
+    
     margin-left: 550px;
     padding-bottom: 50px;
     
